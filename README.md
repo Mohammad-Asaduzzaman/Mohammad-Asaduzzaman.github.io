@@ -8,6 +8,4 @@ I worked on the interaction of aluminum ions with lipid bilayer membranes to exp
 ![Bilayer and potassium ion](/assets/img/Bi_Al.gif)
 # Interaction of Lipid Bilayer and Aluminum Ion in Absence of Potassium Ion Channel
 
-## Summary
-Key findings and conclusions.
 
