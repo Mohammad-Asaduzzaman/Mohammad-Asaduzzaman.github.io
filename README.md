@@ -1,8 +1,3 @@
----
-layout: page
-title: Project Title
----
-
 ## Overview
 Short description of the research problem and approach.
 
