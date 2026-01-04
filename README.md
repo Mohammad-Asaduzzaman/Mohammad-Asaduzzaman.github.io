@@ -4,7 +4,7 @@ I worked on the interaction of aluminum ions with lipid bilayer membranes to exp
 ![Bilayer and ion channel](/assets/img/Bi_channel.png)
 # Top and Side View of Potassium Ion Channel Embedded in Lipid Bilayer
 ![ion channel and potassium ion](/assets/img/Al_tox.gif)
-# Aluminum Ions Passing Through Potassium Ion Channel
+# Potassium Ions Passing Through Potassium Ion Channel
 ![Bilayer and potassium ion](/assets/img/Bi_Al.gif)
 # Interaction of Lipid Bilayer and Aluminum Ion in Absence of Potassium Ion Channel
 
