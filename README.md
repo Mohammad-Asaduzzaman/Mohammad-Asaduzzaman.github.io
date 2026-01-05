@@ -9,3 +9,17 @@ I worked on the interaction of aluminum ions with lipid bilayer membranes to exp
 # Interaction of Lipid Bilayer and Aluminum Ions without Potassium Ion Channel
 
 
+## Fulvic Acid Project
+I explored the chelation efficiency of fulvic acid for metal extraction from wastewater 
+
+![FA-10ns](/assets/img/FA-10ns.png)
+# First 10 ns of MD Simulation of Fulvic Acid
+![FA-35ns](/assets/img/FA-35ns.png)
+# First 35 ns of MD Simulation of Fulvic Acid
+![FA-50ns](/assets/img/FA-50ns.png)
+# First 50 ns of MD Simulation of Fulvic Acid
+![FA_Al_20ns](/assets/img/FA_Al_20ns.png)
+# First 20 ns of MD Simulation of Fulvic Acid
+![FA_Al_50ns](/assets/img/FA_Al_20ns.png)
+# First 50 ns of MD Simulation of Fulvic Acid
+
