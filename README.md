@@ -17,11 +17,11 @@ I explored the chelation efficiency of fulvic acid for metal extraction from was
 ![FA-10ns](/assets/img/FA-10ns.png)
 ## First 10 ns of MD Simulation of Fulvic Acid
 ![FA-35ns](/assets/img/FA-35ns.png)
-## First 35 ns of MD Simulation of Fulvic Acid
+## 35 ns of MD Simulation of Fulvic Acid
 ![FA-50ns](/assets/img/FA-50ns.png)
-## First 50 ns of MD Simulation of Fulvic Acid
+## 50 ns of MD Simulation of Fulvic Acid
 ![FA_Al_20ns](/assets/img/FA_Al_20ns.png)
 ## First 20 ns of MD Simulation of Fulvic Acid and Aluminum
 ![FA_Al_50ns](/assets/img/FA_Al_20ns.png)
-## First 50 ns of MD Simulation of Fulvic Acid and Aluminum
+## 50 ns of MD Simulation of Fulvic Acid and Aluminum
 
