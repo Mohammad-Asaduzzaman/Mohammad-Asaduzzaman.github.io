@@ -22,6 +22,6 @@ I explored the chelation efficiency of fulvic acid for metal extraction from was
 ## 50 ns of MD Simulation of Fulvic Acid
 ![FA_Al_20ns](/assets/img/FA_Al_20ns.png)
 ## First 20 ns of MD Simulation of Fulvic Acid and Aluminum
-![FA_Al_50ns](/assets/img/FA_Al_20ns.png)
+![FA_Al_50ns](/assets/img/FA_Al_50ns.png)
 ## 50 ns of MD Simulation of Fulvic Acid and Aluminum
 
